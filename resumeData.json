@@ -1,0 +1,262 @@
+{
+  "main": {
+    "name": "Jasper Ko",
+    "occupation": "",
+    "description": "Pain is temporary, giving up is forever.",
+    "image": "profilepic.jpg",
+    "bio": "I love applying my web experience in developing and debugging a wide variety of complex web-based business applications to help tech companies reach high growth revenue to further scale their business.",
+    "email": "jasperjwko@gmail.com",
+    "phone": "+65 9677 6829",
+    "linkedin": "https://www.linkedin.com/in/jasperjwko",
+    "address": {
+      "street": "Hougang Avenue 2",
+      "city": "Singapore",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1kNdLA_mQJZjKEtkHjJV_JV0RD-j9jenf/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jasperk0",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jasperjwko/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jjwko9/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Jasperjwk",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+
+
+
+  
+  "resume": {
+    "work1": [
+      {
+        "company": "Sopra Steria (Land Transport Authority Project)",
+        "title": "Front End Website Software Engineer",
+        "years": "June 2021 – present",
+        "description": "Worked in a team of 20 developers to build and maintain a robust upgrade version of the client’s software applications which ensured 98% on-time project completion",
+        "description1": "Worked closely with client to respond quickly to 20 user bugs, permanently resolved them within 2 hours for user training to proceed which positively impacted 100 users with a bug-free system",
+        "description2": "Contributed to the UI library to create reusable components that saved 100+ hours of development per month",
+        "description3": "Resolved 30+ Jira tickets weekly which boosted user experience by 95%",
+        "description4": "Technologies used: Angular 10, TypeScript, HTML5, CSS, Bootstrap, OOP, WebStorm, Visual Studio Code, Jira, GitLab, Swagger, Swagger Hub, Postman"
+      }
+    ],
+
+
+
+
+    "skillmessage1": "Languages:   HTML5, CSS3, Typescript, JavaScript, Java, MySQL, Python, MongoDB",
+    "skillmessage2": "Frameworks:  Angular 14, React.js, Node.js, Bootstrap",
+    "skillmessage3": "Soft Skills: Communication, Growth mindset, Accountability, Problem-solving, Culture awareness, Empathy",
+    "education": [
+      {
+        "school": "University of Wollongong",
+        "degree": "Bachelor of Computer Science (Digital System Security)",
+        "graduated": "October 2018 – March 2021",
+        "description1": "Graduated with Distinction",
+        "description2": "Relevant coursework: Introduction to Web Technology (HTML5, CSS3, JavaScript), Algorithms, OOP in Java",
+
+        "school1": "CS50 Certificate awarded from Harvard University",
+        "degree1": "Computer Science",
+        "graduated1": "January 2021 – April 2021",
+        "description3": "Solved all ten problem sets, ten labs, and one final project with perfect correctness",
+        "description4": "Relevant coursework: HTML, CSS, JavaScript, Python, Data Structures, Algorithms, SQL",
+
+        "school2": "CS50 Website Certificate awarded from Harvard University",
+        "degree2": "Website Programming",
+        "graduated2": "January 2021 – April 2021",
+        "description5": "Solved all six problem sets with perfect correctness",
+        "description6": "Relevant coursework: Angular, TypeScript, HTML5, CSS3, JavaScript, Bootstrap, React, Algorithms"
+      }
+    ],
+    
+    "work": [
+      {
+        "company": "All Saints Home",
+        "title": "Nursing Home Volunteer",
+        "years": "December 2019 – present",
+        "description": "Helped to smoothly facilitate activities weekly for residents achieving 95% participation",
+        "description2": "Engaged with 20+ residents and acted as a physical, emotional, social, and mental support for them",
+        "description3": "Followed best practices for resident care, ensuring resident safety with 0 incident reports",
+
+        "company1": "TOUCH Community Services",
+        "title1": "Promoter",
+        "years1": "July 2016 – September 2016",
+        "description4": "Built strong relationships with members of the public to encourage their participation in the annual fund-raising M.A.D. (Make A Difference) race",
+        "description5": "This has resulted in close to 1,800 people taking part in the race and raising a total of $108,000"
+      }
+    ],
+
+    "hobbies": [
+      {
+        "company": "Redbubble",
+        "title": "Designer",
+        "years": "September 2020 - present",
+        "description1": "Designed 1090 products and made 40 sales in the first month, 4,000 likes and 159 followers",
+        "description2": "Maintained customer satisfaction 100% by implementing designs that meet their needs and wants",  
+        "description3": "Artwork: http://www.redbubble.com/people/youressentials",
+        
+        "title1": "Best Selling Product",
+        "category": "",
+        "image": "top1.jpg",
+        "url": "https://www.redbubble.com/i/t-shirt/Life-Is-Great-My-Tibetan-Terrier-Makes-It-Better-by-YourEssentials/57167478.IJ6L0#&gid=1&pid=1"
+      }
+    ],
+
+    "hobbieImage": [
+      {
+        "title": "",
+        "category": "",
+        "image": "top1.jpg",
+        "url": "https://www.redbubble.com/i/t-shirt/Life-Is-Great-My-Tibetan-Terrier-Makes-It-Better-by-YourEssentials/57167478.IJ6L0#&gid=1&pid=1"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "top2.jpg",
+        "url": "https://www.redbubble.com/i/t-shirt/Life-Is-Great-My-Beagle-Makes-It-Better-by-YourEssentials/57104818.WFLAH.XYZ"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "top3.jpg",
+        "url": "https://www.redbubble.com/i/t-shirt/Life-Is-Great-My-Rhodesian-Ridgeback-Makes-It-Better-by-YourEssentials/57314259.22W0K"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "top4.jpg",
+        "url": "https://www.redbubble.com/i/t-shirt/Life-Is-Great-My-Briard-Makes-It-Better-by-YourEssentials/57244780.22W0K"
+      }
+    ],
+
+    "officialResume": [
+      {
+        "title": "",
+        "category": "",
+        "image": "top1.jpg",
+        "url": "https://www.redbubble.com/i/t-shirt/Life-Is-Great-My-Tibetan-Terrier-Makes-It-Better-by-YourEssentials/57167478.IJ6L0#&gid=1&pid=1"
+      }
+    ],
+    
+
+    "skills": [
+      {
+        "name": "ReactJs, Python"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "My Appointment (Final Year Group Project)",
+        "category": "Awarded with Distinction",
+        "image": "fyp.gif",
+        "url": "https://uowmyappointment.herokuapp.com/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.gif",
+        "url": "https://github.com/Jasperjwk/Amazon-Clone-Personal-Project"
+      },
+      {
+        "title": "Covid-19 Tracker (React JS)",
+        "category": "",
+        "image": "covid tracker.gif",
+        "url": "https://github.com/Jasperjwk/covid-19-personal-project"
+      },
+      {
+        "title": "Linkedin Clone (React JS)",
+        "category": "",
+        "image": "Linkedin .gif",
+        "url": "https://github.com/Jasperjwk/Linkedin-clone-personal-project "
+      },
+      {
+        "title": "Zoom Clone (React JS)",
+        "category": "",
+        "image": "zoom.gif",
+        "url": "https://github.com/Jasperjwk/Zoom-Clone-Personal-Project"
+      },
+      {
+        "title": "Whatsapp Clone (React JS)",
+        "category": "",
+        "image": "Whatsapp.gif",
+        "url": "https://github.com/Jasperjwk/Whatsapp-Clone-Personal-Project"
+      },
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "facebook.gif",
+        "url": "https://github.com/Jasperjwk/Facebook_Clone_UPDATED_Personal_Project "
+      },
+      {
+        "title": "Google Clone (React JS)",
+        "category": "",
+        "image": "google search.gif",
+        "url": "https://github.com/Jasperjwk/Google-Clone-Personal-Project "
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.gif",
+        "url": "https://github.com/Jasperjwk/gmail-clone-personal-project "
+      },
+      {
+        "title": "Spotify Clone (React JS)",
+        "category": "",
+        "image": "spotify.gif",
+        "url": "https://github.com/Jasperjwk/Spotify_Clone_Personal_Project"
+      },
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.gif",
+        "url": "https://github.com/Jasperjwk/Snapchat-clone-personal-project "
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
